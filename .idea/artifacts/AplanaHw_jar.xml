@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AplanaHw:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AplanaHw_jar</output-path>
+    <root id="archive" name="AplanaHw.jar">
+      <element id="module-output" name="AplanaHw" />
+    </root>
+  </artifact>
+</component>
